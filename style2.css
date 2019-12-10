@@ -1,0 +1,31 @@
+* {
+margin: .5cm;
+}
+
+body {
+background-color: grey;
+}
+
+
+.RED {
+background: crimson; 
+padding: .1cm;
+}
+
+.GREEN {
+background: green; 
+padding: .1cm;
+}
+
+
+.BLUE {
+background: blue; 
+padding: .1cm;
+}
+
+table, tr, th, td {
+text-align: center;
+border: solid black 1px;
+margin: auto;
+padding: 5px;
+}
