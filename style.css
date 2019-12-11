@@ -3,9 +3,13 @@
 
 
 section {
-    position: absolute;
+    position: relative;
     background: #000;
     z-index: 10;
+}
+
+body {
+    background: #000;
 }
 
 h2 {
@@ -13,6 +17,13 @@ h2 {
     color: #fff;
     font-size: 4em;
     z-index: 2;
+   
+}
+h4 {
+    text-align: center;
+    color: #ffffff;
+    font-size: cm;
+
    
 }
 
@@ -76,4 +87,22 @@ background-color: #4CAF50; /* Green */
   display: inline-block;
   font-size: 12px;
 }
+
+.flex {
+    margin: auto;
+    width: 80%;
+    border: 3px solid  #4CAF50;
+    padding: 10px;
+    text-align: center;
+  
+
+}
+
+#slika {
+    display: block;
+    margin: auto;
+}
+
+
+
     
